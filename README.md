@@ -1,2 +1,4 @@
 # PUC-DEVOPS
-Repositório para estudo da matéria de DEVOPS
+
+Repositório de estudo da matéria de DEVOPS
+Olá, repositório exclusivo para testes
