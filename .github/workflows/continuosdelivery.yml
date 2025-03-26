@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main #ou qualquer outra branch
+
 jobs:
   deliver:
     runs-on: ubuntu-latest
@@ -16,5 +17,4 @@ jobs:
           name: projetozipado.zip
           path: |
             '**.py'
-            readme.md
-            
+            README.md
